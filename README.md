@@ -7,3 +7,4 @@ Para o protótipo eletrônico, foi utilizado o microcontrolador ESP-WROOM-32, mo
 Ainda para a prototipagem aditiva, a modelagem 3D foi criada na plataforma #onshape e servirá para armazenar a prototipagem eletrônica em uma estrutura em formato de boia.     
         
 Tive orientação do professor Justo Emilio Alvarez Jacobo. 
+Vídeo do Projeto pode ser conferido no meu [linkedin](https://www.linkedin.com/posts/jos%C3%A9-filipe-983b16210_pet-facepe-ufpe-activity-6882053356446113792-yYYi?utm_source=linkedin_share&utm_medium=member_desktop_web). 
